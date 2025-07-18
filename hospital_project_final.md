@@ -17,20 +17,20 @@ theme : hospital reservation
 - **Markdown**  
   → 문서화 및 보고서 작성
 
-- **데이터베이스(DB)**: PostgreSQL, MongoDB  
+- **데이터베이스(DB)**: MySQL, MongoDB  
   → 예약 정보, 사용자 정보 저장
 
 - **버전 관리**: Git, GitHub  
   → 파일 관리 및 온라인 공개용
 
-### 🔹 확장 고려 기술 (가상 구현 기준)
-- **프론트엔드**: HTML / CSS (선택적 사용 시)  
+### 🔹 기술 스택 
+- **프론트엔드**: HTML / CSS  
   → 병원 예약 시스템의 사용자 인터페이스(UI) 구현 시 사용 가능
 
-- **백엔드**: Java / Python / Node.js 등  
+- **백엔드**: Java / Python / Node.js 등 
   → 실제 예약 기능을 구현할 경우의 서버 언어 예시
 
-- **데이터베이스**: MySQL / SQLite (선택)  
+- **데이터베이스**: MySQL / SQLite   
   → 예약 정보, 사용자 정보 등을 저장할 수 있는 관계형 DB
 
 ---
